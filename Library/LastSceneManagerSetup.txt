@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/prueba-video.unity
+  isLoaded: 1
+  isActive: 1
